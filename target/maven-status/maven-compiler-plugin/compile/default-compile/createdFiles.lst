@@ -1,0 +1,9 @@
+de\nopantscarl\purplespawner\listeners\PlayerInteract.class
+de\nopantscarl\purplespawner\commands\SpawnerGive.class
+de\nopantscarl\purplespawner\listeners\PrepareAnvil.class
+de\nopantscarl\purplespawner\main\PurpleSpawner.class
+de\nopantscarl\purplespawner\listeners\BlockBreak.class
+de\nopantscarl\purplespawner\listeners\BlockPlace.class
+de\nopantscarl\purplespawner\utils\FileManager.class
+de\nopantscarl\purplespawner\utils\ItemBuilder.class
+de\nopantscarl\purplespawner\commands\ReloadConfig.class

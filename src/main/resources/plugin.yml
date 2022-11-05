@@ -1,0 +1,12 @@
+name: PurpleSpawner
+version: '${project.version}'
+main: de.nopantscarl.purplespawner.main.PurpleSpawner
+api-version: 1.17
+authors: [ nopantscarl ]
+description: A custom spawner plugin
+
+commands:
+  spawnergive:
+    description: Give customized spawners
+  purplespawner:
+    description: Reload the config
