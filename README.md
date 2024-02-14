@@ -1,5 +1,5 @@
 # Purple-Spawner
-Minecraft Open Source Plugin 1.17, 1.18.1 tested on papper and spigot
+Minecraft Open Source Plugin 1.17, 1.18.1 tested on papper and spigot. 
 
 Prevent anvil rename of spawners, Spawners go into player's inventory, consume only one spawn egg per usage, 
 and prevent the spawner breaking if the player doesnt have silk touch or prerms.
@@ -18,3 +18,5 @@ for the command /spawnergive - purplespawner.givespawner
 for the command /purplespawner - purplespawner.reloadconfig
 to break a spawner - purplespawner.mine
 to edit a spawner with spawn egg - purplespawner.eggchange
+
+Please note that this project is no longer actively maintained or functional, and it is provided here purely for archival purposes.
